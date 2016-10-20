@@ -1,0 +1,20 @@
+{
+  "name": "mix-social-log",
+  "version": "0.0.2",
+  "description": "社交化日志工具, copyright mix corp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mix utils"
+  ],
+  "author": "DestinyXie",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DestinyXie/MixSocialLog.git"
+  },
+  "license": "MIT"
+}
